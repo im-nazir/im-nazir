@@ -1,4 +1,4 @@
-# Hey there, I'm Nazir
+# Hey there, I'm Nazir.
 
 > **Backend Engineer** · Building robust, scalable systems from the ground up.
 
@@ -9,14 +9,14 @@
 ```python
 class BackendEngineer:
     def __init__(self):
-        self.name       = "Your Name"
+        self.name       = "Imran Nazir"
         self.role       = "Backend Engineer"
         self.location   = "Dhaka, Bangladesh"
         self.focus      = ["APIs", "Microservices", "System Design", "Cloud Infra"]
         self.currently  = "Building something awesome"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something great together.")
+        print("Thanks for stopping by!")
 
 me = BackendEngineer()
 me.say_hi()
@@ -70,6 +70,7 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+---
 
 ## 🏗️ What I Build
 

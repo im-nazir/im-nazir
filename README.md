@@ -13,13 +13,9 @@ class BackendEngineer:
         self.role       = "Backend Engineer"
         self.location   = "Dhaka, Bangladesh"
         self.focus      = ["APIs", "Microservices", "System Design", "Cloud Infra"]
-        self.currently  = "Building something awesome"
-
-    def say_hi(self):
-        print("Thanks for stopping by!")
+        self.status     = "Building something awesome"
 
 me = BackendEngineer()
-me.say_hi()
 ```
 
 ---
@@ -92,8 +88,7 @@ me.say_hi()
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=3776AB" alt="Profile views" />
-</p>
-
-<p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
+<blockquote align="center">
+  <i>"First, solve the problem. Then, write the code."</i><br>
+  <cite>– John Johnson</cite>
+</blockquote>

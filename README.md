@@ -1,6 +1,6 @@
 # Hey there, I'm Nazir.
 
-> **Backend Engineer** · Building robust, scalable systems from the ground up.
+> **Backend Engineer** · Building robust and scalable systems from the ground up.
 
 ---
 
@@ -12,7 +12,7 @@ class BackendEngineer:
         self.name       = "Imran Nazir"
         self.role       = "Backend Engineer"
         self.location   = "Dhaka, Bangladesh"
-        self.focus      = ["APIs", "Microservices", "System Design", "Cloud Infra"]
+        self.focus      = ["APIs", "Microservices", "System Design", "Cloud Infrastructure"]
         self.status     = "Building something awesome"
 
 me = BackendEngineer()

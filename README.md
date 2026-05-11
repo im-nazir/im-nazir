@@ -4,22 +4,6 @@
 
 ---
 
-## 🧠 About Me
-
-```python
-class BackendEngineer:
-    def __init__(self):
-        self.name       = "Imran Nazir"
-        self.role       = "Backend Engineer"
-        self.location   = "Dhaka, Bangladesh"
-        self.focus      = ["APIs", "Microservices", "System Design", "Cloud Infrastructure"]
-        self.status     = "Building something awesome"
-
-me = BackendEngineer()
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🐍 Languages
@@ -85,10 +69,3 @@ me = BackendEngineer()
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imnazirr)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazir.imran@proton.me)
 [![Personal Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://imnazir.substack.com)
-
----
-
-<blockquote align="center">
-  <i>"First, solve the problem. Then, write the code."</i><br>
-  <cite>– John Johnson</cite>
-</blockquote>

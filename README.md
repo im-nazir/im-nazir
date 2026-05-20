@@ -1,6 +1,6 @@
 # Hey there, I'm Nazir.
 
-> **Backend Engineer** · Building robust and scalable systems from the ground up.
+> **Founding Engineer @ Arcadium**
 
 ---
 
